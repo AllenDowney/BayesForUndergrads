@@ -1,5 +1,10 @@
 # BayesForUndergrads
-Materials for a workshop on developing undergraduate classes on Bayesian statistics.
+
+Materials for a workshop on developing undergraduate classes on Bayesian statistics.  June 2016.
+
+Led by Allen Downey and Sanjoy Mahajan.
+
+[Focus workshops at Olin College](http://www.olin.edu/collaborate/collaboratory/summer-institute/focus-workshops/).
 
 ### Abstract
 
