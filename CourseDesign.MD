@@ -38,14 +38,14 @@ Let's identify some axes and see if there are natural clusters.
 
 ### Inventory of Bayesian applications
 
-1. Estimating counts: dice problem, German-tank problem, tag and recapture, Lincoln index.
+1. Estimating counts: dice problem, German tank problem, tag and recapture, Lincoln index.
 2. Estimating proportions: cookie problem, Euro problem, polling.
 3. Estimating rates: World Cup problem, Boston Bruins, Red Line problem.
 4. Tracking, filtering, sensor integration (e.g. lighthouse problem).
 5. Medical testing: sickle-cell anemia, Marfan's syndrome, PKU testing
 6. Courtroom arguments (Bayes and the law)
 7. Monty Hall and its variants
-8. Testing for ESP
+8. Testing for ESP, gluten sensitivity
 9. Product reliability (sequential sampling)
 10. Is it my phone number?
 
