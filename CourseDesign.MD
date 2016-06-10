@@ -48,6 +48,7 @@ Let's identify some axes and see if there are natural clusters.
 8. Testing for ESP, gluten sensitivity
 9. Product reliability (sequential sampling)
 10. Is it my phone number?
+11. P-values: Computing them, misconceptions about them, and what they really mean
 
 ### Exercise  
 
