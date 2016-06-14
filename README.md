@@ -16,9 +16,16 @@ In this workshop, we present topics and methods that we teach in two courses at 
 
 Workshop participants will be able to use these modules and supporting materials to develop courses for a range of audiences and learning goals.  Participants should be familiar with basic probability and statistics but need no knowledge of Bayesian statistics.  Our computational modules use the Python programming language, but they can be adapted to any language and are accessible to anyone with basic programming skills.
 
+## Resources
 
-[Click here to view the slides](https://docs.google.com/presentation/d/1ltQiDWFyWJR_SzTRXdRHLfA3YA70koqxcBi0KYKWAzQ/pub?start=false&loop=false&delayms=3000)
+[Click here to view the slides from the workshop](https://docs.google.com/presentation/d/1ltQiDWFyWJR_SzTRXdRHLfA3YA70koqxcBi0KYKWAzQ/pub?start=false&loop=false&delayms=3000)
+
+[Here is a related talk, Learning to Love Bayesian Statistics](https://docs.google.com/presentation/d/1dMyYS4Op8u-VChYOqBMtfpy0JSSPJ7oxIx6K_9RHEuQ/pub?start=false&loop=false&delayms=3000)
 
 Click this button to run the Jupyter notebook on Binder:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/AllenDowney/BayesMadeSimple)
+
+[Here is the web page for Computational Bayesian Statistics from Fall 2014](https://sites.google.com/site/compbayes14/)
+
+We will have handouts from Bayesian Inference posted soon.
